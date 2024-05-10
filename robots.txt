@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atomic-ai0.github.io/nsentek_test2.github.io/sitemap.xml
+Sitemap: https://atomic-ai0.github.io/insentek_test2.github.io//sitemap.xml
