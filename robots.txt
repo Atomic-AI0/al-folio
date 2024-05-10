@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atomic-ai0.github.io//sitemap.xml
+Sitemap: https://atomic-ai0.github.io/sitemap.xml
